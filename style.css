@@ -106,7 +106,7 @@ body {
 
     /* When hamburger icon is clicked, show the navbar-menu */
     .checkbox-ni-hamburger:checked+.navbar-menu {
-        top: 100px;
+        top: 5.5rem;
     }
 
     /* Logo adjustment */
