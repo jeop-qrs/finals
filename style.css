@@ -62,6 +62,7 @@ body {
     display: flex;
     flex-direction: row;
     row-gap: 1.25rem;
+    align-items: center;
 }
 
 /* Navigation Bar link styling (Home, Products, About Us) */
